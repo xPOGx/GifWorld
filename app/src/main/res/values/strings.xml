@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Gif World</string>
+    <string name="gif">GIF</string>
+    <string name="error_occurred">Error occurred</string>
+    <string name="try_again">Try again</string>
+    <string name="loading_new_gifs">Loading new gifs…</string>
 </resources>

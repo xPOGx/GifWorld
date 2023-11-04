@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="between_grid_elements">2.dp</dimen>
+    <dimen name="small">8.dp</dimen>
+    <dimen name="medium">16.dp</dimen>
+</resources>
